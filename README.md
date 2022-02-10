@@ -9,7 +9,7 @@
   <img align="center" alt="LIBI-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
  </div>
   
- 
+  
     
   
   
@@ -21,5 +21,4 @@
   <a href="https://www.linkedin.com/in/libiane-gomes-7b174815a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  
- <img scr="https://github.com/libianegomes/libianegomes/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/libianegomes/libianegomes/blob/output/github-contribution-grid-snake.svg">
